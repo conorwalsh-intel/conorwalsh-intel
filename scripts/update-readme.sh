@@ -22,8 +22,9 @@ done
 
 cd ..
 
-echo "<!-- " >> README.md
+echo "" >> README.md
+echo "<!--" >> README.md
 date >> README.md
-echo " -->" >> README.md
+echo "-->" >> README.md
 
 rm -rf dpdk
