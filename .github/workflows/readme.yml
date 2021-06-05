@@ -13,16 +13,16 @@ jobs:
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    - name: Create local changes
+    - name: Run Update Script
       run: |
         chmod +x scripts/update-readme.sh
         ./scripts/update-readme.sh
-    - name: Commit files
+    - name: Commit new README
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git commit -m "Add changes" -a
-    - name: Push changes
+    - name: Push new README
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
