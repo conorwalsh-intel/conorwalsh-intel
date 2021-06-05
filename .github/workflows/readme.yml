@@ -1,30 +1,19 @@
 name: Update README
 
 on:
-  push:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
-  markscribe:
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@master
-
-      - uses: muesli/readme-scribe@master
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/profile.tpl"
-          writeTo: "README.md"
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: Conors Bot
-          commit_user_email: actions@github.com
-          commit_author: Conors Bot <actions@github.com>
+          MAX_LINES: 10
