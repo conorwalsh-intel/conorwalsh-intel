@@ -19,3 +19,7 @@ IFS=$'\n'
 for OUT in $(git log --oneline --author conor.walsh@intel.com -n 10); do
         echo $OUT | cut -d' ' -f1 | { read id; echo "* [${OUT#* }](https://github.com/DPDK/dpdk/commit/$id)" >> ../README.md; }
 done
+
+cd ..
+
+rm -rf dpdk
