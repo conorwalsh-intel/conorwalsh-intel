@@ -23,8 +23,6 @@ done
 cd ..
 
 echo "" >> README.md
-echo "<!--" >> README.md
-date >> README.md
-echo "-->" >> README.md
+echo "_Generated: $(date +%Y\-%m\-%d\ %H\:%m)_" >> README.md
 
 rm -rf dpdk
