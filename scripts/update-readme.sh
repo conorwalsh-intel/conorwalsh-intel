@@ -5,7 +5,7 @@ git clone http://dpdk.org/git/dpdk
 echo "### Conor Walsh
 
 - 👷‍♂️ Software Engineer
-- 🏢 Working for the Intel Network Platforms Group
+- 🏢 Working for Intel's Network Platforms Group
 - 💻 Working on DPDK
 - 🌱 Learning more about C, Rust, networking and the cloud
 
