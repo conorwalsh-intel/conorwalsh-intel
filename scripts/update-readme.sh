@@ -15,6 +15,6 @@ done
 cd ..
 
 echo "" >> README.md
-echo "_Generated: $(env TZ=Europe/Dublin date +%Y\-%m\-%d\ %H\ %r\ \I\S\T)_" >> README.md
+echo "_Generated: $(env TZ=Europe/Dublin date +%Y\-%m\-%d\ %H\ %p\ \I\S\T)_" >> README.md
 
 rm -rf dpdk
