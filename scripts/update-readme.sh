@@ -2,15 +2,7 @@
 
 git clone http://dpdk.org/git/dpdk
 
-echo "### Conor Walsh
-
-- 👷‍♂️ Software Engineer
-- 🏢 Working for Intel's Network Platforms Group
-- 💻 Working on [DPDK](https://dpdk.org/)
-- 🌱 Learning more about C, Rust, networking and the cloud
-
-#### 🔨 My Latest DPDK Commits
-" > README.md
+cat scripts/template.md > README.md
 
 cd dpdk
 
@@ -23,6 +15,6 @@ done
 cd ..
 
 echo "" >> README.md
-echo "_Generated: $(date +%Y\-%m\-%d\ %H\:%m)_" >> README.md
+echo "_Generated: $(env TZ=Europe/Dublin date +%Y\-%m\-%d\ %H\:%m)_" >> README.md
 
 rm -rf dpdk
