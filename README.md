@@ -2,6 +2,7 @@
 - 👷‍♂️ Software Engineer
 - 🏢 Working for Intel's Network Platforms Group
 - 💻 Working on [DPDK](https://dpdk.org/)
+- 🇮🇪 Shannon, Ireland
 - 🌱 Learning more about C, Rust, networking and the cloud
 
 #### 🔨 My Latest DPDK Commits
@@ -18,4 +19,4 @@
 * [test/ring: fix build for O1 optimization](https://github.com/DPDK/dpdk/commit/262cf9152)
 * [net/txgbe: fix build by simplifying xstats return](https://github.com/DPDK/dpdk/commit/f8b41a8e3)
 
-_Generated: 2021-06-07  2pm IST_
+_Generated: 2021-06-07  6pm IST_
