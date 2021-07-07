@@ -8,6 +8,8 @@
 #### 🔨 My Latest DPDK Commits
 
 <!-- Automated after this line -->
+* [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
+* [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
 * [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
 * [examples/l3fwd: skip Tx queue drain on first FIB iteration](https://github.com/DPDK/dpdk/commit/91470c0ddf)
 * [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
@@ -16,7 +18,5 @@
 * [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
 * [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
 * [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
-* [test/ring: fix build for O1 optimization](https://github.com/DPDK/dpdk/commit/262cf9152b)
-* [net/txgbe: fix build by simplifying xstats return](https://github.com/DPDK/dpdk/commit/f8b41a8e37)
 
-_Generated: 2021-07-07  7am IST_
+_Generated: 2021-07-07  1pm IST_
