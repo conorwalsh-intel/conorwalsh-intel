@@ -2,7 +2,7 @@
 
 git clone http://dpdk.org/git/dpdk
 
-sed -n '/Automated after this line/q;p' README.md > README.md
+sed -i '1,/Automated after this line/!d' README.md
 
 cd dpdk
 
