@@ -1,9 +1,29 @@
-### Conor Walsh
-- 👷‍♂️ Software Engineer
+Conor Walsh
+- 👷<200d>♂️ Software Engineer
 - 🏢 Working for Intel's Network Platforms Group
 - 💻 Working on [DPDK](https://dpdk.org/)
-- 🇮🇪 Shannon, Ireland
+- 🇮 🇪  Shannon, Ireland
 - 🌱 Learning more about C, Rust, networking and the cloud
+
+#### 🔨 My Latest DPDK Commits
+
+<!--START_SECTION:dpdk-->
+* [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
+* [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
+* [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
+* [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
+* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
+* [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
+* [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
+* [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
+* [examples/l3fwd: skip Tx queue drain on first FIB iteration](https://github.com/DPDK/dpdk/commit/91470c0ddf)
+* [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
+* [examples/l3fwd: add FIB infrastructure](https://github.com/DPDK/dpdk/commit/9510dd1feb)
+* [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
+* [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
+* [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
+* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
+<!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Badges
 <!--START_SECTION:badges-->
@@ -17,18 +37,6 @@
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/a97485ad-413b-478c-9d70-a3122528ffa0 "LFC191: Open Source Licensing Basics for Software Developers")
 <!--END_SECTION:badges-->
 
-#### 🔨 My Latest DPDK Commits
-
-<!-- Automated after this line -->
-* [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
-* [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
-* [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
-* [examples/l3fwd: skip Tx queue drain on first FIB iteration](https://github.com/DPDK/dpdk/commit/91470c0ddf)
-* [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
-* [examples/l3fwd: add FIB infrastructure](https://github.com/DPDK/dpdk/commit/9510dd1feb)
-* [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
-* [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
-* [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
-* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
-
-_Generated: 2021-09-14  5pm IST_
+<!--START_SECTION:gen-->
+_Generated: 2021-09-14  1pm IST_
+<!--END_SECTION:gen-->
