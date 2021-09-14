@@ -24,4 +24,3 @@ awk -v data="$(<tmpgen.md)" '/START_SECTION:gen/ {f=1} /END_SECTION:gen/ && f {p
 rm -rf dpdk
 rm tmp.md
 rm tmpgen.md
-rm README.md.tmp
