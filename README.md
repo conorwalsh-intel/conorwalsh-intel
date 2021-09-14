@@ -6,6 +6,8 @@
 - 🌱 Learning more about C, Rust, networking and the cloud
 
 #### 🔨 My Latest DPDK Commits
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!-- Automated after this line -->
 * [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
