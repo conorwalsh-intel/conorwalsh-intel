@@ -2,7 +2,7 @@
 
 git clone http://dpdk.org/git/dpdk
 
-cat scripts/template.md > README.md
+sed -n '/Automated after this line/q;p' README.md > README.md
 
 cd dpdk
 
