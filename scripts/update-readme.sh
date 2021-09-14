@@ -8,18 +8,22 @@ cd dpdk
 
 IFS=$'\n'
 
+echo "<!--START_SECTION:dpdk-->" >> ../tmp.md
 for OUT in $(git log --oneline --author conor.walsh@intel.com -n 10); do
         echo $OUT | cut -d' ' -f1 | { read id; echo "* [${OUT#* }](https://github.com/DPDK/dpdk/commit/$id)" >> ../tmp.md; }
 done
+echo "<!--END_SECTION:dpdk-->" >> ../tmp.md
 
 cd ..
 
-awk -v data="$(<tmp.md)" '/START_SECTION:dpdk/ {f=1} /END_SECTION:dpdk/ && f {print data; f=0}1' README.md > README.md.tmp; mv README.md.tmp README.md
+#awk -v data="$(<tmp.md)" '/START_SECTION:dpdk/ {f=1} /END_SECTION:dpdk/ && f {print data; f=0}1' README.md > README.md.tmp; mv README.md.tmp README.md
+sed -e '/START_SECTION:dpdk/,/END_SECTION:dpdk/!b' -e '/END_SECTION:dpdk/!d;r tmp.md' -e 'd' README.md > README.md.tmp; mv README.md.tmp README.md
 
 touch tmpgen.md
 echo "_Generated: $(env TZ=Europe/Dublin date +%Y\-%m\-%d\ %l%P\ \I\S\T)_" > tmpgen.md
 
-awk -v data="$(<tmpgen.md)" '/START_SECTION:gen/ {f=1} /END_SECTION:gen/ && f {print data; f=0}1' README.md > README.md.tmp; mv README.md.tmp README.md
+#awk -v data="$(<tmpgen.md)" '/START_SECTION:gen/ {f=1} /END_SECTION:gen/ && f {print data; f=0}1' README.md > README.md.tmp; mv README.md.tmp README.md
+sed -e '/START_SECTION:gen/,/END_SECTION:gen/!b' -e '/END_SECTION:gen/!d;r tmpgen.md' -e 'd' README.md > README.md.tmp; mv README.md.tmp README.md
 
 rm -rf dpdk
 rm tmp.md
