@@ -1,5 +1,5 @@
 Conor Walsh
-- 👷<200d>♂️ Software Engineer
+- 👷 Software Engineer
 - 🏢 Working for Intel's Network Platforms Group
 - 💻 Working on [DPDK](https://dpdk.org/)
 - 🇮 🇪  Shannon, Ireland
