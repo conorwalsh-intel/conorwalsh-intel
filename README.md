@@ -5,9 +5,11 @@
 - 🇮🇪 Shannon, Ireland
 - 🌱 Learning more about C, Rust, networking and the cloud
 
-#### 🔨 My Latest DPDK Commits
+#### 🏆 My Latest Badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+#### 🔨 My Latest DPDK Commits
 
 <!-- Automated after this line -->
 * [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
