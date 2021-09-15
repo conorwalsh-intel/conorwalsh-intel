@@ -20,7 +20,7 @@ Conor Walsh
 * [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
 <!--END_SECTION:dpdk-->
 
-#### 🏆 My Latest Badges
+#### 🏆 My Latest Certifications
 <!--START_SECTION:badges-->
 
 [![LFS253: Containers Fundamentals](https://images.credly.com/size/110x110/images/e06d5627-5ff7-483f-b8e1-4157287ffdc2/LF_logobadge.png)](http://www.credly.com/badges/dde2f272-b02b-488b-8f2f-b843d6a556f8 "LFS253: Containers Fundamentals")
