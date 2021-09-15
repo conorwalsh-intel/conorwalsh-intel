@@ -17,6 +17,7 @@ Conor Walsh
 * [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
 * [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
 * [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
+* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Badges
@@ -31,6 +32,4 @@ Conor Walsh
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/a97485ad-413b-478c-9d70-a3122528ffa0 "LFC191: Open Source Licensing Basics for Software Developers")
 <!--END_SECTION:badges-->
 
-<!--START_SECTION:gen-->
-_Generated: 2021-09-14  6pm IST_
-<!--END_SECTION:gen-->
+_Generated: 2021-09-15  9am IST_
