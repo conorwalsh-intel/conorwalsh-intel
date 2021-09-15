@@ -17,7 +17,6 @@ Conor Walsh
 * [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
 * [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
 * [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
-* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Badges
