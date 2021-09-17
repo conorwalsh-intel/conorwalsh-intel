@@ -8,6 +8,7 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
+* [eal: fix memory leak when saving arguments](https://github.com/DPDK/dpdk/commit/4777674c44)
 * [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
 * [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
 * [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
@@ -17,7 +18,6 @@ Conor Walsh
 * [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
 * [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
 * [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
-* [build: fix gcc warning requiring Wformat](https://github.com/DPDK/dpdk/commit/654e893436)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -33,5 +33,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-09-16  7pm IST_
+_Generated: 2021-09-17  2am IST_
 <!--END_SECTION:gen-->
