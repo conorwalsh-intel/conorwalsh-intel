@@ -1,7 +1,7 @@
 Conor Walsh
 - 👷 Software Engineer
 - 🏢 Working for Intel's Network Platforms Group
-- 💻 Working on [DPDK](https://dpdk.org/)
+- 💻 Working on [DPDK](https://github.com/DPDK/dpdk)
 - 🇮🇪 Shannon, Ireland
 - 🌱 Learning more about C, Rust, networking and the cloud
 
