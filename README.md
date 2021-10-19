@@ -8,6 +8,8 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
+* [usertools/telemetry: list file-prefixes](https://github.com/DPDK/dpdk/commit/9055bcde19)
+* [usertools/telemetry: fix instance option help](https://github.com/DPDK/dpdk/commit/6839b8ade4)
 * [eal: fix memory leak when saving arguments](https://github.com/DPDK/dpdk/commit/4777674c44)
 * [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
 * [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
@@ -16,8 +18,6 @@ Conor Walsh
 * [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
 * [examples/l3fwd: add FIB infrastructure](https://github.com/DPDK/dpdk/commit/9510dd1feb)
 * [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
-* [examples/l3fwd: fix LPM IPv6 subnets](https://github.com/DPDK/dpdk/commit/0c74a91ad6)
-* [net/bnxt: fix format specifier for unsigned numbers](https://github.com/DPDK/dpdk/commit/4c3a535ede)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -35,5 +35,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-10-19  1pm IST_
+_Generated: 2021-10-19  4pm IST_
 <!--END_SECTION:gen-->
