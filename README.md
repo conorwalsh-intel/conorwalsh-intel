@@ -8,6 +8,7 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
+* [dma/idxd: move config script from raw driver](https://github.com/DPDK/dpdk/commit/eeae931683)
 * [usertools/telemetry: list file-prefixes](https://github.com/DPDK/dpdk/commit/9055bcde19)
 * [usertools/telemetry: fix instance option help](https://github.com/DPDK/dpdk/commit/6839b8ade4)
 * [eal: fix memory leak when saving arguments](https://github.com/DPDK/dpdk/commit/4777674c44)
@@ -17,7 +18,6 @@ Conor Walsh
 * [examples/l3fwd: skip Tx queue drain on first FIB iteration](https://github.com/DPDK/dpdk/commit/91470c0ddf)
 * [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
 * [examples/l3fwd: add FIB infrastructure](https://github.com/DPDK/dpdk/commit/9510dd1feb)
-* [examples/l3fwd: move routes to common header](https://github.com/DPDK/dpdk/commit/da796d2755)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -35,5 +35,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-10-22  1pm IST_
+_Generated: 2021-10-22  7pm IST_
 <!--END_SECTION:gen-->
