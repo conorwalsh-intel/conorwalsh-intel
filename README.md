@@ -8,16 +8,16 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
-* [dma/idxd: move config script from raw driver](https://github.com/DPDK/dpdk/commit/eeae931683)
-* [usertools/telemetry: list file-prefixes](https://github.com/DPDK/dpdk/commit/9055bcde19)
-* [usertools/telemetry: fix instance option help](https://github.com/DPDK/dpdk/commit/6839b8ade4)
-* [eal: fix memory leak when saving arguments](https://github.com/DPDK/dpdk/commit/4777674c44)
-* [examples/l3fwd: remove useless reloads in EM main loop](https://github.com/DPDK/dpdk/commit/815611b367)
-* [examples/l3fwd: remove useless reloads in FIB main loop](https://github.com/DPDK/dpdk/commit/6018b5ac74)
-* [doc: show how to include code in guides](https://github.com/DPDK/dpdk/commit/413c75c33c)
-* [examples/l3fwd: skip Tx queue drain on first FIB iteration](https://github.com/DPDK/dpdk/commit/91470c0ddf)
-* [examples/l3fwd: implement FIB lookup method](https://github.com/DPDK/dpdk/commit/6a094e3285)
-* [examples/l3fwd: add FIB infrastructure](https://github.com/DPDK/dpdk/commit/9510dd1feb)
+* [raw/ioat: deprecate rawdev driver](https://github.com/DPDK/dpdk/commit/a4d11e0386)
+* [usertools/devbind: move ioat device IDs to DMA class](https://github.com/DPDK/dpdk/commit/e6f6dda60a)
+* [dma/ioat: add burst capacity](https://github.com/DPDK/dpdk/commit/96d7833393)
+* [dma/ioat: add vchan status](https://github.com/DPDK/dpdk/commit/912c204424)
+* [dma/ioat: add statistics](https://github.com/DPDK/dpdk/commit/f526394174)
+* [dma/ioat: add data path completion](https://github.com/DPDK/dpdk/commit/9f46de12c4)
+* [dma/ioat: add data path job submission](https://github.com/DPDK/dpdk/commit/3d4b027324)
+* [dma/ioat: add start and stop](https://github.com/DPDK/dpdk/commit/583f046dd4)
+* [dma/ioat: add configuration](https://github.com/DPDK/dpdk/commit/a19a2dceda)
+* [dma/ioat: add datapath structures](https://github.com/DPDK/dpdk/commit/4ffd224742)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -35,5 +35,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-10-22  7pm IST_
+_Generated: 2021-10-23  2am IST_
 <!--END_SECTION:gen-->
