@@ -18,6 +18,11 @@ Conor Walsh
 * [dma/ioat: add start and stop](https://github.com/DPDK/dpdk/commit/583f046dd4)
 * [dma/ioat: add configuration](https://github.com/DPDK/dpdk/commit/a19a2dceda)
 * [dma/ioat: add datapath structures](https://github.com/DPDK/dpdk/commit/4ffd224742)
+* [dma/ioat: create dmadev instances on PCI probe](https://github.com/DPDK/dpdk/commit/13859ab773)
+* [dma/ioat: add device probing and removal](https://github.com/DPDK/dpdk/commit/866e46bcd8)
+* [dma/idxd: move config script from raw driver](https://github.com/DPDK/dpdk/commit/8bedc51583)
+* [usertools/telemetry: list file-prefixes](https://github.com/DPDK/dpdk/commit/9055bcde19)
+* [usertools/telemetry: fix instance option help](https://github.com/DPDK/dpdk/commit/6839b8ade4)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -35,5 +40,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-10-26  1pm IST_
+_Generated: 2021-10-26  7pm GMT_
 <!--END_SECTION:gen-->
