@@ -8,21 +8,21 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
+* [examples/performance-thread: remove unused hits count](https://github.com/DPDK/dpdk/commit/130e99db59)
+* [test/distributor: remove unused counter](https://github.com/DPDK/dpdk/commit/ccbdaaa981)
+* [net/vmxnet3: fix build with clang 13](https://github.com/DPDK/dpdk/commit/e76eb560bc)
+* [net/txgbe: fix build with clang 13](https://github.com/DPDK/dpdk/commit/0b62b3c940)
+* [net/qede/base: remove unused message size](https://github.com/DPDK/dpdk/commit/2ccebadab2)
+* [net/nfp: remove unused message length](https://github.com/DPDK/dpdk/commit/9465a5d5a0)
+* [net/liquidio: remove unused counter](https://github.com/DPDK/dpdk/commit/52415c6b25)
+* [net/bnxt: remove some unused variables](https://github.com/DPDK/dpdk/commit/2d72ec8dab)
+* [event/sw: remove unused inflight events count](https://github.com/DPDK/dpdk/commit/0f66d415c4)
+* [bus/fslmc: remove unused device count](https://github.com/DPDK/dpdk/commit/54d109b564)
+* [test/thash: fix build with clang 13](https://github.com/DPDK/dpdk/commit/6dfcdf8fd5)
+* [net/octeontx: remove unused packet length](https://github.com/DPDK/dpdk/commit/23c97a67e5)
+* [net/hinic/base: remove some unused variables](https://github.com/DPDK/dpdk/commit/b5dedf261c)
+* [common/qat: remove unused time counter](https://github.com/DPDK/dpdk/commit/8b46c37be5)
 * [raw/ioat: deprecate rawdev driver](https://github.com/DPDK/dpdk/commit/a4d11e0386)
-* [usertools/devbind: move ioat device IDs to DMA class](https://github.com/DPDK/dpdk/commit/e6f6dda60a)
-* [dma/ioat: add burst capacity](https://github.com/DPDK/dpdk/commit/96d7833393)
-* [dma/ioat: add vchan status](https://github.com/DPDK/dpdk/commit/912c204424)
-* [dma/ioat: add statistics](https://github.com/DPDK/dpdk/commit/f526394174)
-* [dma/ioat: add data path completion](https://github.com/DPDK/dpdk/commit/9f46de12c4)
-* [dma/ioat: add data path job submission](https://github.com/DPDK/dpdk/commit/3d4b027324)
-* [dma/ioat: add start and stop](https://github.com/DPDK/dpdk/commit/583f046dd4)
-* [dma/ioat: add configuration](https://github.com/DPDK/dpdk/commit/a19a2dceda)
-* [dma/ioat: add datapath structures](https://github.com/DPDK/dpdk/commit/4ffd224742)
-* [dma/ioat: create dmadev instances on PCI probe](https://github.com/DPDK/dpdk/commit/13859ab773)
-* [dma/ioat: add device probing and removal](https://github.com/DPDK/dpdk/commit/866e46bcd8)
-* [dma/idxd: move config script from raw driver](https://github.com/DPDK/dpdk/commit/8bedc51583)
-* [usertools/telemetry: list file-prefixes](https://github.com/DPDK/dpdk/commit/9055bcde19)
-* [usertools/telemetry: fix instance option help](https://github.com/DPDK/dpdk/commit/6839b8ade4)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -40,5 +40,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2021-11-16  6am GMT_
+_Generated: 2021-11-16 12pm GMT_
 <!--END_SECTION:gen-->
