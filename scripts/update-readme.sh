@@ -9,7 +9,7 @@ cd dpdk
 IFS=$'\n'
 
 echo "<!--START_SECTION:dpdk-->" >> ../tmp.md
-for OUT in $(git log --oneline --author conor.walsh@intel.com -n 15); do
+for OUT in $(git log --oneline --author conor.walsh@intel.com -n 20); do
         echo $OUT | cut -d' ' -f1 | { read id; echo "* [${OUT#* }](https://github.com/DPDK/dpdk/commit/$id)" >> ../tmp.md; }
 done
 echo "<!--END_SECTION:dpdk-->" >> ../tmp.md
