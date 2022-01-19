@@ -23,6 +23,11 @@ Conor Walsh
 * [net/hinic/base: remove some unused variables](https://github.com/DPDK/dpdk/commit/b5dedf261c)
 * [common/qat: remove unused time counter](https://github.com/DPDK/dpdk/commit/8b46c37be5)
 * [raw/ioat: deprecate rawdev driver](https://github.com/DPDK/dpdk/commit/a4d11e0386)
+* [usertools/devbind: move ioat device IDs to DMA class](https://github.com/DPDK/dpdk/commit/e6f6dda60a)
+* [dma/ioat: add burst capacity](https://github.com/DPDK/dpdk/commit/96d7833393)
+* [dma/ioat: add vchan status](https://github.com/DPDK/dpdk/commit/912c204424)
+* [dma/ioat: add statistics](https://github.com/DPDK/dpdk/commit/f526394174)
+* [dma/ioat: add data path completion](https://github.com/DPDK/dpdk/commit/9f46de12c4)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -40,5 +45,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2022-01-19 12pm GMT_
+_Generated: 2022-01-19  4pm GMT_
 <!--END_SECTION:gen-->
