@@ -8,11 +8,11 @@ Conor Walsh
 #### 🔨 My Latest DPDK Commits
 
 <!--START_SECTION:dpdk-->
+* [doc: fix reference to dma application example](https://github.com/DPDK/dpdk/commit/269f027453)
 * [examples/performance-thread: remove unused hits count](https://github.com/DPDK/dpdk/commit/130e99db59)
 * [test/distributor: remove unused counter](https://github.com/DPDK/dpdk/commit/ccbdaaa981)
 * [net/vmxnet3: fix build with clang 13](https://github.com/DPDK/dpdk/commit/e76eb560bc)
 * [net/txgbe: fix build with clang 13](https://github.com/DPDK/dpdk/commit/0b62b3c940)
-* [net/qede/base: remove unused message size](https://github.com/DPDK/dpdk/commit/2ccebadab2)
 <!--END_SECTION:dpdk-->
 
 #### 🏆 My Latest Certifications
@@ -29,5 +29,5 @@ Conor Walsh
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
-_Generated: 2022-10-21  2pm GMT_
+_Generated: 2022-10-21  7pm GMT_
 <!--END_SECTION:gen-->
