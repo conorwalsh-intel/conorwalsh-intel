@@ -17,7 +17,7 @@ Conor Walsh
 
 #### 🏆 My Latest Certifications
 <!--START_SECTION:badges-->
-[![Product Assurance and Security Yellow Belt - Software](https://images.credly.com/size/110x110/images/dffc58a0-7857-4c6d-829b-0e50694fb86c/yellow-sw-belt.png)](http://www.credly.com/badges/08c40c8e-e80d-4a3f-b8e1-9b562ca82b63 "Product Assurance and Security Yellow Belt - Software")
+[![Product Assurance and Security Yellow Belt - Software](https://images.credly.com/size/110x110/images/dffc58a0-7857-4c6d-829b-0e50694fb86c/yellow-sw-belt.png)](http://www.credly.com/badges/57eebe8f-8541-4c01-ba8a-d205aeae93fb "Product Assurance and Security Yellow Belt - Software")
 [![LFS211: Linux Networking and Administration](https://images.credly.com/size/110x110/images/bbc42abf-bcb2-4e05-8993-a7a973d90f21/LF_logobadge.png)](http://www.credly.com/badges/8ab5636c-6ceb-4a61-8aea-c7cb3bc03591 "LFS211: Linux Networking and Administration")
 [![LFS253: Containers Fundamentals](https://images.credly.com/size/110x110/images/e06d5627-5ff7-483f-b8e1-4157287ffdc2/LF_logobadge.png)](http://www.credly.com/badges/dde2f272-b02b-488b-8f2f-b843d6a556f8 "LFS253: Containers Fundamentals")
 [![LFD201: Introduction to Open Source Development, GIT, and Linux](https://images.credly.com/size/110x110/images/ef992d73-517c-4b05-85cc-ff97b66c740f/LF_logobadge.png)](http://www.credly.com/badges/0e31127a-724d-4f1b-b535-f352fbd35ffc "LFD201: Introduction to Open Source Development, GIT, and Linux")
