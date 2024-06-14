@@ -18,8 +18,8 @@ Conor Walsh
 #### 🏆 My Latest Certifications
 <!--START_SECTION:badges-->
 [![Product Assurance and Security Yellow Belt - Software](https://images.credly.com/size/110x110/images/dffc58a0-7857-4c6d-829b-0e50694fb86c/yellow-sw-belt.png)](http://www.credly.com/badges/57eebe8f-8541-4c01-ba8a-d205aeae93fb "Product Assurance and Security Yellow Belt - Software")
-[![LFS211: Linux Networking and Administration](https://images.credly.com/size/110x110/images/bbc42abf-bcb2-4e05-8993-a7a973d90f21/LF_logobadge.png)](http://www.credly.com/badges/8ab5636c-6ceb-4a61-8aea-c7cb3bc03591 "LFS211: Linux Networking and Administration")
-[![LFS253: Containers Fundamentals](https://images.credly.com/size/110x110/images/e06d5627-5ff7-483f-b8e1-4157287ffdc2/LF_logobadge.png)](http://www.credly.com/badges/dde2f272-b02b-488b-8f2f-b843d6a556f8 "LFS253: Containers Fundamentals")
+[![LFS211: Linux Networking and Administration](https://images.credly.com/size/110x110/images/619bc2a6-cc83-4c1a-a23e-a663e19541b5/image.png)](http://www.credly.com/badges/8ab5636c-6ceb-4a61-8aea-c7cb3bc03591 "LFS211: Linux Networking and Administration")
+[![LFS253: Containers Fundamentals](https://images.credly.com/size/110x110/images/caeea27f-a94c-4f76-9331-303083a6a76b/image.png)](http://www.credly.com/badges/dde2f272-b02b-488b-8f2f-b843d6a556f8 "LFS253: Containers Fundamentals")
 [![LFD201: Introduction to Open Source Development, Git, and Linux](https://images.credly.com/size/110x110/images/cfc94944-f825-4896-bab8-545ab89ecb9d/image.png)](http://www.credly.com/badges/0e31127a-724d-4f1b-b535-f352fbd35ffc "LFD201: Introduction to Open Source Development, Git, and Linux")
 [![LFC208: Creating Open Source Projects](https://images.credly.com/size/110x110/images/0062f681-1a76-4f13-abc7-23cc8097117d/image.png)](http://www.credly.com/badges/71608590-655c-455b-8b9c-188b3b0d1b36 "LFC208: Creating Open Source Projects")
 [![LFS201: Essentials of Linux System Administration](https://images.credly.com/size/110x110/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](http://www.credly.com/badges/e25b87ac-9bf0-4473-a1f3-f6bb30b94a8f "LFS201: Essentials of Linux System Administration")
