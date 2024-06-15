@@ -24,8 +24,8 @@ Conor Walsh
 [![LFC208: Creating Open Source Projects](https://images.credly.com/size/110x110/images/0062f681-1a76-4f13-abc7-23cc8097117d/image.png)](http://www.credly.com/badges/71608590-655c-455b-8b9c-188b3b0d1b36 "LFC208: Creating Open Source Projects")
 [![LFS201: Essentials of Linux System Administration](https://images.credly.com/size/110x110/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](http://www.credly.com/badges/e25b87ac-9bf0-4473-a1f3-f6bb30b94a8f "LFS201: Essentials of Linux System Administration")
 [![Product Assurance and Security White Belt](https://images.credly.com/size/110x110/images/463c9018-6b1d-49a3-b17b-565dfa8b019a/white-belt.png)](http://www.credly.com/badges/3b638eb8-d808-4b7e-8626-aba92efc2c15 "Product Assurance and Security White Belt")
-[![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/81a48e6b-6d1a-42c2-beab-9b52128cd3e9 "LFC191: Open Source Licensing Basics for Software Developers")
-[![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/a97485ad-413b-478c-9d70-a3122528ffa0 "LFC191: Open Source Licensing Basics for Software Developers")
+[![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/41a3cf24-4d1e-4b96-8be8-07afb53aa6f8/image.png)](http://www.credly.com/badges/81a48e6b-6d1a-42c2-beab-9b52128cd3e9 "LFC191: Open Source Licensing Basics for Software Developers")
+[![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/41a3cf24-4d1e-4b96-8be8-07afb53aa6f8/image.png)](http://www.credly.com/badges/a97485ad-413b-478c-9d70-a3122528ffa0 "LFC191: Open Source Licensing Basics for Software Developers")
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:gen-->
